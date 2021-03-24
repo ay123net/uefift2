@@ -1,5 +1,6 @@
 # Freetype4UEFI
 A example for UEFI to use free type 2
+ 
 ![screen shot](https://github.com/ay123net/uefift2/blob/master/20210323163153.jpg)
 
 * Freetype version: 2.10.4
@@ -12,8 +13,8 @@ A example for UEFI to use free type 2
 * Support build tools: GCC and VS
 
 ## Author
-Email: cbaoyun@gmail.com
-Blog: https://ay123.net
+* Email: cbaoyun@gmail.com
+* Blog: https://ay123.net
 
 ## Reference
 * [FreeType2使用总结](https://blog.csdn.net/finewind/article/details/38009731)
