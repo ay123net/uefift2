@@ -16,5 +16,5 @@ Email: cbaoyun@gmail.com
 Blog: https://ay123.net
 
 ## Reference
-[FreeType2使用总结](https://blog.csdn.net/finewind/article/details/38009731)
-[FreeType example1](https://www.freetype.org/freetype2/docs/tutorial/example1.c)
+* [FreeType2使用总结](https://blog.csdn.net/finewind/article/details/38009731)
+* [FreeType example1](https://www.freetype.org/freetype2/docs/tutorial/example1.c)
