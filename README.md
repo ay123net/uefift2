@@ -1,10 +1,10 @@
 # Freetype4UEFI
-A example for UEFI to use free type 2
+A example for UEFI to use freetype 2
  
 ![screen shot](https://github.com/ay123net/uefift2/blob/master/20210323163153.jpg)
 
-* Freetype version: 2.10.4
-* Freetype download: https://download.savannah.gnu.org/releases/freetype/
+* Freetype2 version: 2.10.4
+* Freetype2 download: https://download.savannah.gnu.org/releases/freetype/
 
 ## Build
 * Put the project file to the folder AppPkg/Applications
