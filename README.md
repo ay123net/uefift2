@@ -23,3 +23,4 @@ A example for UEFI to use freetype 2
 ## Reference
 * [FreeType2使用总结](https://blog.csdn.net/finewind/article/details/38009731)
 * [FreeType example1](https://www.freetype.org/freetype2/docs/tutorial/example1.c)
+* [UEFI_FreeType_MSVC](https://github.com/tenpoku1000/UEFI_FreeType_MSVC/)
