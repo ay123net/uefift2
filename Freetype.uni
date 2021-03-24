@@ -1,0 +1,22 @@
+// /** @file
+// Console support on graphic devices.
+//
+// This driver will install Simple Text Output protocol by consuming Graphices Output
+// protocol or UGA Draw protocol on graphic devices.
+//
+// Copyright (c) 2006 - 2014, Intel Corporation. All rights reserved.<BR>
+//
+// This program and the accompanying materials
+// are licensed and made available under the terms and conditions of the BSD License
+// which accompanies this distribution. The full text of the license may be found at
+// http://opensource.org/licenses/bsd-license.php
+// THE PROGRAM IS DISTRIBUTED UNDER THE BSD LICENSE ON AN "AS IS" BASIS,
+// WITHOUT WARRANTIES OR REPRESENTATIONS OF ANY KIND, EITHER EXPRESS OR IMPLIED.
+//
+// **/
+#langdef   en-US "English"
+#langdef   zh-Hans "中文"
+
+#string STR_STRING           #language en-US    "They come the security"
+                             #language zh-Hans  "既来之 则安之"
+
