@@ -13,7 +13,7 @@ A example for UEFI to use free type 2
 * Support build tools: GCC and VS
 
 ## Run
-* Put the font file to the efi file folder
+* Put the ttc font file to the efi file folder
 * Run in uefi shell 
 
 ## Author
